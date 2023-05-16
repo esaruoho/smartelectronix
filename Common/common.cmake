@@ -71,7 +71,7 @@ endfunction(create_resource_file)
 #*******************************************************************************
 # Adds VSTGUI to target
 #
-# @param VST_TARGET        The cmake target to which the VSTGUI libray will be
+# @param VST_TARGET        The cmake target to which the VSTGUI library will be
 #                          added.
 # @param VST_TARGET_IMAGES The images used in the cmake targets GUI
 #*******************************************************************************
